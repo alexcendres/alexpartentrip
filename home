@@ -1,0 +1,315 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+
+    <meta charset="utf-8" />
+    <title>Alex part en trip</title>
+    <meta name="generator" content="GravCMS" />
+<meta name="description" content="Askip c&#039;est chan-mé d&#039;avoir un blog qui raconter ce qui s&#039;annonce j&#039;en suis persuadé, un sacré périple." />
+<meta name="keywords" content="Alex" />
+<meta name="keywords 1" content="part" />
+<meta name="keywords 2" content="en " />
+<meta name="keywords 3" content="trip" />
+<meta name="blog" content="framablog" />
+<meta name="alex, part, en, trip" content="titre" />
+<meta name="bastion" content="auteur" />
+<meta name="framablog" content="blog" />
+<meta name="alexpartentrip" content="titre2" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link rel="icon" type="image/png" href="" />
+    <link rel="canonical" href="https://alexpartentrip.frama.site/qg" />
+
+                                                    <link href="https://alexpartentrip.frama.site/assets/a45ddbfc7df373010a4f2c95cb801b13.css" type="text/css" rel="stylesheet" />
+
+<style>
+body {
+  background-color: #8a2be2 
+  color: #333333;
+}
+
+.module p {
+  color: #333333;
+}
+
+.module .item-icon {
+  color: #6A5687;
+}
+
+a {
+  color: #6A5687;
+  opacity: 0.85;
+}
+
+a:hover {
+  color: #6A5687;
+  opacity: 1;
+}
+
+#header .navbar,
+.navbar.scrolled {
+  background-color: #EEEEEE;
+  width: 100%;
+}
+
+#header a,
+.navbar.scrolled #navbar1 a,
+.navbar.scrolled .navbar-brand {
+  color: #6A5687;
+}
+
+#header .navbar-toggle {
+  border-color: #6A5687;
+}
+#header .navbar-toggle .icon-bar {
+  background-color: #6A5687;
+}
+
+.jumbotron h1,
+.jumbotron p{
+  color: #ffffff;
+}
+
+#body h2 a {
+   color: #6A5687;
+}
+
+.tags a.btn {
+  background-color: #6A5687;
+  border: none;
+}
+
+#body .col-md-9 {
+  background: #ff4040
+  padding: 0px 30px 15px;
+  margin-top: 15px;
+}
+
+#body .col-md-9 + .col-md-3 {
+  padding: 15px 0px 0 30px;
+}
+
+#contact {
+  background: #ffffff;
+  border: none;
+}
+
+footer.footer {
+  background: #DFDFDF;
+  color: #333333;
+}
+footer.footer a {
+  color: #333333;
+}
+
+</style>
+
+
+                                    <script src="https://alexpartentrip.frama.site/assets/9252223fd6daad1eb1d1801e96d7d072.js" ></script>
+
+<script>
+hljs.initHighlightingOnLoad();
+
+</script>
+
+    <script>
+        jQuery(document).ready(function () {
+          jQuery('a').each(function() {
+            const c = jQuery('link[rel="canonical"]').attr('href');
+            const a = jQuery(this).attr('href');
+            const h = `${window.location.protocol}//${window.location.host}`;
+            const n = a
+              .replace(`:/${window.location.host}`, `://${window.location.host}`) // pagination
+              .replace(`${h}/tag:`, `${c}/tag:`)
+              .replace(`${h}/archives_month:`, `${c}/archives_month:`)
+              .replace(`${h}.atom`, `${c}.atom`)
+              .replace(`${h}.rss`, `${c}.rss`)
+              .replace(`${h}.atom`, `${h}/.atom`)
+              .replace(`${h}.rss`, `${h}/.rss`);
+            jQuery(this).attr('href', n);
+          });
+        });
+    </script>
+</head>
+<body class="">
+
+<div id='frontend-edit-button' class='top right'>
+    <div class='page-item' data-nav-id='/grav-cms/qg'>
+        <a class='page-edit frontend-edit-button' target='_blank' href='https://alexpartentrip.frama.site/admin/pages/qg'>
+                            <i class='icon-feb-editor'></i>
+                                        <span class="label">
+                    Modifier
+                </span>
+                    </a>
+    </div>
+</div>
+        <header id="header" class="header">
+        <nav class="navbar navbar-default navbar-fixed-top "  >
+  <div class=" container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#"> FramAlex </a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="navbar1">
+                    <ul class="nav navbar-nav highdensity-menu navbar-center
+"  >
+                        <li><a href="https://alexpartentrip.frama.site/qg">Qg</a>
+</li>
+                    <li><a href="https://alexpartentrip.frama.site/mais-cest-qui-ce-pelo">Mais c'est qui ce pélo?</a>
+</li>
+            </ul>
+
+                    <ul class="nav navbar-nav  navbar-right
+" >
+                        <li><a href="https://twitter.com/share?url=https://alexpartentrip.frama.site/qg"><i class="fa fa-retweet " ></i>
+</a>
+</li>
+                    <li><a href="https://framagit.org/framasoft/framasite"><i class="fa fa-asterisk " ></i>
+</a>
+</li>
+            </ul>
+
+            </div>
+  </div>
+</nav>
+
+    </header>
+    
+        <section id="body" class="">
+            
+<div class="container">
+        <div class="row">
+        <div class="col-md-12 col-sm-12">
+            
+<div id="breadcrumbs" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+                                            <span itemprop="title">Qg</span>
+                        </div>
+        </div>
+    </div>
+
+    <div class="row">
+    <div class="col-md-12">
+        <h1> Le QG d'Alex </h1>
+<div>
+<p> Bonjour Bonsoir <br> 
+Ceci est pour ainsi dire un départ.<br>
+Un départ pour Dublin. <b> ENFIN </b> certains diront. <br> 
+On peux aussi considérer ça comme la reprise petit à petit du codage <br><img src="https://alexpartentrip.frama.site/user/pages/01.qg/Youhou.gif" alt="même les mignons sont contents"></p></div>
+<div>             
+ <a href="https://alexpartentrip.frama.site/mais-cest-qui-ce-pelo">Au c'est qui Alex?</a> <br><a href="https://alexpartentrip.frama.site/qg/contact"> Contact </a>
+</div>
+
+    </div>
+</div>
+
+    <div class="row">
+    <div class="col-md-9">   
+     
+  
+    </div>
+    <div class="col-md-3">        
+      
+
+ 
+
+<div class="sidebar-content">
+    <h3>Rechercher</h3>
+    <div class="search-wrapper">
+    <form name="search" data-simplesearch-form>
+        <input
+            name="searchfield"
+            class="search-input"
+            type="text"
+             min="3"             required
+            placeholder="Recherche …"
+            value=""
+            data-search-invalid="Veuillez ajouter au moins 3 caractères"
+            data-search-separator=":"
+            data-search-input="https://alexpartentrip.frama.site/search/query"
+        />
+            </form>
+</div>
+</div>
+   
+<div class="sidebar-content">
+    <h3>Tags populaires</h3>
+    
+                <span class="tags">
+            </span>
+    </div>
+   
+   
+   
+   
+<div class="sidebar-content">
+    <h3>Archives</h3>
+	<ul class="archives">
+        </ul>
+</div>
+   
+<div class="sidebar-content">
+    <h3>Flux</h3>
+    <div class="btn-group">
+        <a class="btn btn-warning" href="https://alexpartentrip.frama.site.atom"><i class="fa fa-rss-square"></i> Atom 1.0</a>
+        <a class="btn btn-warning" href="https://alexpartentrip.frama.site.rss"><i class="fa fa-rss-square"></i> RSS</a>
+    </div>
+</div>
+
+
+
+    </div>   
+</div>
+
+      
+
+</div>
+        </section>
+    
+        <footer class="footer footer-one">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-sm-12 inline-navigation">
+                
+<div class=" navigation">    
+        <ul>
+                        
+                                                    <li class="active">
+                    <a href="https://alexpartentrip.frama.site/qg">
+                                                Qg
+                    </a>
+                </li>
+                                            <li class="">
+                    <a href="https://alexpartentrip.frama.site/mais-cest-qui-ce-pelo">
+                                                Mais c'est qui ce pélo?
+                    </a>
+                </li>
+                        </ul>
+</div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 col-sm-12">
+                <p>Ce site est custumisé par moi-même avec plus ou moins de réussite et de talent <br/> motorisé par <a href="http://getgrav.org/">Grav CMS</a> avec le theme <a href="http://diblas.net/themes/gravstrap-theme-to-start-grav-cms-site-with-bootstrap-support/">Gravstrap</a> adapté par <a href="https://framasoft.org/">Framasoft</a></p>
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 col-sm-12">
+                &copy; 2018 
+            </div>
+        </div>
+    </div>
+</footer>
+
+    
+    <script src="/user/plugins/simplesearch/js/simplesearch.js"></script>
+    <script src="/user/themes/gravstrap-theme/js/mathjax.js"></script>
+    <script src="/user/themes/gravstrap-theme/vendor/mathjax/MathJax.js?config=TeX-AMS-MML_HTMLorMML" defer ></script>
+</body>
+</html>
